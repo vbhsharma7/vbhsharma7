@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning full stack data science
 - 📫 How to reach me vbhsharma7@gmail.com
-     linkedin.com/in/vibhu-sharma-697023142
+     linkedin.com/in/vbhsharma7
 
 <!---
 vbhsharma7/vbhsharma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
