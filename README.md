@@ -1,7 +1,8 @@
 - 👋 Hi, I’m vibhu sharma
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning full stack data science
-- 📫 How to reach me vbhsharma7@gmail.com
+- 📫 How to reach me vibhusharma.ds@gmail.com
+- 
      linkedin.com/in/vbhsharma7
 
 <!---
