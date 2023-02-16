@@ -2,9 +2,6 @@
   Hi, I am vibhu!
 </h1 align="center">  
 
-<div id="header" align="center">
-  <img src= "https://media1.giphy.com/media/Imojkp6TR8TCLUtyif/giphy.gif?cid=ecf05e47vkpqwv4zycfm4enmqcy6xaql5ureendaf49rg08m&rid=giphy.gif&ct=g"/>
-</div>  
 <h1 align="center">
 Data Science Enthusiast
   
