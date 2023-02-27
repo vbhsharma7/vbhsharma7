@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi, I am vibhu!
 </h1 align="center">  
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.webp" width="251"/>
+</div>  
 <h1 align="center">
 Data Science Enthusiast
   
