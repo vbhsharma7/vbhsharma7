@@ -13,7 +13,7 @@ Data Science Enthusiast
 
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Python, SQL, Machine Learning, Deep Learning, Visualizations, Pattern recognition<br><br><br>👨‍💻 All of my projects are available at https://github.com/vbhsharma7<br>📝 I regularly write articles on https://medium.com/@vbhsharma7<br><br>📫 How to reach me https:vibhusharma.ds@gmail.com<br>💬 Ask me about Python, SQL, ML<br><br>⚡ Fun fact: Did you know that the term "big data" was first used in the 1990s by NASA scientists to describe the large amounts of data they were collecting from space missions? However, it wasn't until the early 2000s that the term started to gain popularity in the technology industry, and today it's widely used to refer to the vast amounts of data that are generated and collected in various fields, including social media, e-commerce, finance, and healthcare.
+<br>🌱 I’m currently learning Python, SQL, Machine Learning, Deep Learning, Visualizations, Pattern recognition<br><br><br>📝 I regularly write articles on https://medium.com/@vbhsharma7<br><br>📫 How to reach me https:vibhusharma.ds@gmail.com<br>💬 Ask me about Python, SQL, ML<br><br>⚡ Fun fact: Did you know that the term "big data" was first used in the 1990s by NASA scientists to describe the large amounts of data they were collecting from space missions? However, it wasn't until the early 2000s that the term started to gain popularity in the technology industry, and today it's widely used to refer to the vast amounts of data that are generated and collected in various fields, including social media, e-commerce, finance, and healthcare.
 
 
 
